@@ -2,11 +2,13 @@
   "id": "soroush",
   "name": "Soroush+",
   "version": "1.0.0",
+  "repository": "https://github.com/xmha97/FerdiumRecipes",
   "license": "MIT",
   "aliases": [
     "سروش پلاس"
   ],
   "config": {
-    "serviceURL": "https://web.splus.ir/"
+    "serviceURL": "https://web.splus.ir/",
+    "hasNotificationSound": true
   }
 }

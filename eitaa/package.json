@@ -2,11 +2,13 @@
   "id": "eitaa",
   "name": "Eitaa",
   "version": "1.0.1",
+  "repository": "https://github.com/xmha97/FerdiumRecipes",
   "license": "MIT",
   "aliases": [
     "ایتا"
   ],
   "config": {
-    "serviceURL": "https://web.eitaa.com/"
+    "serviceURL": "https://web.eitaa.com/",
+    "hasNotificationSound": true
   }
 }
