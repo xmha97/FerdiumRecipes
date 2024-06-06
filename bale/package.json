@@ -3,6 +3,9 @@
   "name": "Bale",
   "version": "1.0.1",
   "license": "MIT",
+  "aliases": [
+    "بله"
+  ],
   "config": {
     "serviceURL": "https://web.bale.ai/"
   }

@@ -3,6 +3,9 @@
   "name": "Rubika",
   "version": "1.0.0",
   "license": "MIT",
+  "aliases": [
+    "روبیکا"
+  ],
   "config": {
     "serviceURL": "https://web.rubika.ir/"
   }

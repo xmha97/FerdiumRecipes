@@ -3,6 +3,9 @@
   "name": "Eitaa",
   "version": "1.0.1",
   "license": "MIT",
+  "aliases": [
+    "ایتا"
+  ],
   "config": {
     "serviceURL": "https://web.eitaa.com/"
   }

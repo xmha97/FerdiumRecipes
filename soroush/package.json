@@ -3,6 +3,9 @@
   "name": "Soroush+",
   "version": "1.0.0",
   "license": "MIT",
+  "aliases": [
+    "سروش پلاس"
+  ],
   "config": {
     "serviceURL": "https://web.splus.ir/"
   }
