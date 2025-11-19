@@ -1,14 +1,9 @@
 {
   "id": "bale",
   "name": "Bale",
-  "version": "1.0.1",
-  "repository": "https://github.com/xmha97/FerdiumRecipes",
+  "version": "1.0.0",
   "license": "MIT",
-  "aliases": [
-    "بله"
-  ],
   "config": {
-    "serviceURL": "https://web.bale.ai/",
-    "hasNotificationSound": true
+    "serviceURL": "https://web.bale.ai/"
   }
 }
